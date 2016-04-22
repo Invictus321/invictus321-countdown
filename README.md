@@ -7,3 +7,7 @@
 ### Then inside your loop do:
 
   cd.Count()
+
+### Then to get the seconds remaining do:
+
+  cd.SecondsRemaining()
