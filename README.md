@@ -11,3 +11,7 @@
 ### Then to get the seconds remaining do:
 
   cd.SecondsRemaining()
+
+### Then to get the percentage complete do:
+
+  cd.PercentageComplete()
