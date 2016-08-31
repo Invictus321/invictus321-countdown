@@ -15,3 +15,7 @@
 ### Then to get the percentage complete do:
 
   cd.PercentageComplete()
+
+### Or to just get the status as a nice string do:
+
+  cd.PrettyPrint()
